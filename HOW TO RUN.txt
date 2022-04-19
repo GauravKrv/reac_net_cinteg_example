@@ -1,0 +1,11 @@
+TWO WAYS TO RUN
+
+1.RUN ON BROWSER
+->Goto link : https://wslsoftwarexg2.netlify.app/
+
+2.RUN ON LOCAL -> 
+->Install node.js 
+-> goto main-folder[WSL] 
+-> open terminal at that path 
+-> run command -> "npm install" => to install node modules
+-> run command -> "npm start" => to start the project at "http://localhost:3000/"
